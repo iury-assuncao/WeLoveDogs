@@ -1,0 +1,206 @@
+
+*{
+    text-decoration: none;
+    font-weight: 700;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*parte do cabeçalho*/
+header{
+    height: 120px;
+    font-size: 16px;
+    
+}
+
+header a{
+    color: #000;
+    margin-right: 35px;
+
+}
+
+
+header img{
+    margin-top: 27px;
+    margin-left:14px;
+}
+
+.menu{
+    position: relative;
+    float: right;
+    margin-top: 27px;
+    margin-right: 15px;
+    
+}
+
+
+header button{
+    width: 151px;
+    height: 40px;
+    top: 40px;
+    background: rgba(126, 211, 33, 0.4);
+    border-radius: 15px;
+    font-family:  'Open Sans', sans-serif;
+    padding: 9px;
+    color: #1C4701;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+/*parte da home*/
+.aside{
+    width: 371px;
+    height: 351px;
+    margin-left: 200px;
+   
+}
+
+.aside p{
+    font-size: 48px;
+    
+}
+
+.aside button{
+    width: 220px;
+    height: 51px;
+    background: #7ED321;
+    border-radius: 15px;
+    font-family:  'Open Sans', sans-serif;
+    padding: 13px;
+    color: #1C4701;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+
+.conteiner{
+    display: flex;
+}
+
+.conteiner img{
+    margin-top: 10px;
+    
+}
+
+/*parte do quem somos*/
+
+.quemsomos{
+    width: 687px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: justify;
+            
+}
+
+#title{
+    text-align: center;
+    font-size: 48px;
+    margin-top: 30px;
+    margin-bottom: 14px;
+
+    
+}
+
+#textq{
+    font-weight: 400;
+}
+
+/*parte do blog*/
+
+.blogtodo{
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto; 
+
+}
+
+.blog{
+    text-align: justify;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.blog p{
+    font-weight: 400;
+
+}
+
+/*parte do contato */
+
+.contato{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto; 
+
+}
+
+
+input{
+    width: 418px;
+    height: 43px;
+    background: #FFFFFF;
+    border: 1px solid #9F9F9F;
+    box-sizing: border-box;
+    border-radius: 7px;
+    margin-left: 14px;
+    margin-top: 20px;
+  
+}
+
+textarea{
+    width: 418px;
+    height: 142px;
+    background: #FFFFFF;
+    border: 1px solid #9F9F9F;
+    box-sizing: border-box;
+    border-radius: 7px;
+    margin-left: 14px;
+    margin-top: 20px;
+    resize: none;
+}
+
+.contato button{
+    margin-top:20px;
+    margin-left: 280px;
+    width: 141px;
+    height: 42px;
+    background: #7ED321;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 420px;
+}
+
+#form{
+    display: flex;
+    justify-content: flex-end;
+}
+
+label{
+    display: inline-block;
+    width: 124px;
+    margin-top: 26px;
+}
+
+
+
+
+
+
+
