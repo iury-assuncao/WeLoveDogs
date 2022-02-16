@@ -3,14 +3,14 @@
 <hr>
 
 
-<div style="display:flex">
-    <div ><img  width="95%" src="imgs/imgs_readme/home.png"></div>
-    <div ><img  width="95%"  src="imgs/imgs_readme/blog.png"></div>
+<div style="display:flex" width="100%">
+    <div width="50%"><img width="95%"  src="imgs/imgs_readme/home.png"></div>
+    <div width="50%"><img width="95%"  src="imgs/imgs_readme/blog.png"></div>
 </div>
 <hr>
-<div style="display:flex" >
-    <div ><img  width="95%" src="imgs/imgs_readme/quem_somos.png"></div>
-    <div ><img  width="95%"  src="imgs/imgs_readme/inscricao.png"></div>
+<div style="display:flex" width="100%">
+    <div width="50%"><img width="95%"  src="imgs/imgs_readme/quem_somos.png"></div>
+    <div width="50%"><img width="95%"  src="imgs/imgs_readme/inscricao.png"></div>
 </div>
 
 <hr>
@@ -23,13 +23,10 @@ O projeto WeLoveDogs tem por objetivo iniciar o aprendizado em HTML e CSS, 2 das
 
 <hr>
 <br><br>
-<h1>🗂 Como baixar e iniciar o projeto <h1>
+<h1>💻 Acessar página</h1>
 
-```bash
+<p>Para acessar a página acesse o link : <a href="https://iury-assuncao.github.io/WeLoveDogs/" target="_blank">welovedogs</a>
 
-# Clonando o repositório
-$ git clone https://github.com/iury-assuncao/WeLoveDogs.git
 
-# Acesse <WeLoveDogs/index.html>
 
-```
+
